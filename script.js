@@ -17,7 +17,7 @@ const symbols = '~!@#$%^&*()-_=+[{]}\|;:",<.>/?';
 
 let password= "";
 let passwordLength= 10;
-let checkCount = 0;
+let checkCount = 1;
 
 handleSlider();
 setIndicator("#fff");
